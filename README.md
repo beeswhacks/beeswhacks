@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @beeswhacks.
-- 👔 Professionally, I'm a data analyst. I work with data on higher education in England, primarily on surveys of the student experience and HE finance. I use SAS and SQL mostly, although I'm learning to use Python and R via Databricks.
+- 👔 Professionally, I'm a data analyst with almost 5 years experience of analytical programming. In my most recent role I worked with data on higher education in England, primarily on surveys of the student experience and HE finance. SAS and SQL are my strongest languages. Data visualisation is also one of my strengths and I have 2.5 years experience working with Tableau.
 - 👨‍💻 Privately, I enjoy programming for enjoyment's sake.
-- 🌱 I’m currently learning Python and JavaScript.
+- 🌱 I’m currently learning JavaScript. Tools, libraries and frameworks I've worked with so far include Node, Express, React, Mongoose, MongoDB, HTML, CSS, EJS, JSX and Git. I use Ubuntu at the moment but I was a Mac OS X user for a long time and used Windows at work.
 - 📫 Reach me at je.preston20@gmail.com. I'm on Twitter @beeswhacks but I don't check it very often.
