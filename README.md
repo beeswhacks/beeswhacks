@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @beeswhacks.
 - 👨‍💻 I'm a full-stack web developer using the MERN stack.
-- 👔 Before turning to web development, I was a data analyst for almost 5 years.
-- 🌱 I’m currently learning JavaScript, focusing on MongoDB, Express, React and Node.
-- 📫 Reach me at je.preston20@gmail.com. I'm on Twitter @beeswhacks but I don't check it very often.
